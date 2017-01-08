@@ -1,0 +1,38 @@
+body {
+  margin: 50px;
+  font-family: sans-serif;
+  font-size: x-large;
+  background-color: yellow;
+  color: red;
+}
+
+ol {
+  list-style: upper-roman;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+    font-size: 22px;
+    line-height: 46px;
+}
+
+.explain {
+  font-style: italic;
+}
+
+.image {
+  width: auto;
+  height: auto;
+}
+
+.character_name {
+  color:red;
+}
+
+.author_name{
+  color:blue;
+  font-weight: bolder;
+}
